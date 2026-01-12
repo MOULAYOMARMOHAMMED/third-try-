@@ -1,0 +1,7 @@
+gas_properties_app/
+│
+├── app.py
+├── utils.py
+│
+└── pages/
+    └── 1_Gas_Properties_Calculator.py
