@@ -1,5 +1,0 @@
-math
-streamlit
-matplotlib
-numpy
-utils
